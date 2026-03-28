@@ -1,16 +1,13 @@
 <h1 align="center"><samp>👋 Hey there! I'm <b>Roshan Sharma</b></samp></h1>
-<h2 align="center"><samp>AI/ML Enthusiast • Full-Stack Developer</samp></h2>
 
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=900&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Full+Stack+%7C+;Freelencer+Ideas+into+Orbits" />
+  
 </p>
 <!-- Hero Section -->
 <!-- Hero Section -->
-<p align="center">
-  <img src="https://i.postimg.cc/mkyMPrV7/mario-working.gif" alt="Mario Working" style="max-width: 100%; height: auto;">
-</p>
+
 
 
 
